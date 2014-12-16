@@ -1,0 +1,53 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:100);
+ .headline {
+    text-align: center;
+    color: #ecf0f1;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 450%;
+    font-size: 450%;
+}
+.things {
+    color: #BDBDBD;
+    text-align: center;
+    font-size: 500%;
+    font-weight: 100;
+    font-family: 'Roboto', sans-serif;
+}
+/* main headliners can be declared with this class */
+
+html {
+    font-family: 'Roboto', sans-serif;
+}
+center {
+    text-align: center;
+}
+/* we use roboto for everything else */
+
+.navpills {
+    text-align: center;
+}
+.tupperware {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+/* unless otherwise declared (see: headline class), hereby and forever more, all the text on any HTML page shall be placed in the CENTER!*/
+
+.left {
+    text-align: left
+}
+.right {
+    text-align: right
+}
+.deadmanloader {
+    font-size: 0%;
+}
+.rocks {
+    background-image: url(../img/headline-bg.jpg);
+    min-height: 85px;
+}
+.challenges {
+    background-image: url(../img/challenges.jpg);
+    min-height: 85px;
+}
